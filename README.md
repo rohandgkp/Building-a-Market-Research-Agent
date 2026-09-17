@@ -14,6 +14,7 @@ Your challenge is to build a no-code intelligence workflow in Amazon QuickSuite 
 This is not about writing code or generating generic summaries. It’s about designing a workflow that produces decision-grade intelligence a business team can actually use.
 
 **Project Description: Building Your Market Intelligence Agent**
+
 Your Market Intelligence Agent will be built entirely in Amazon QuickSuite and will deliver a complete market intelligence package inside a Space. The project is organized around two major functions:
 
 1) The Intelligence Builder (Initial Research + Signal Collection)
