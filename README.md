@@ -1,5 +1,6 @@
 # Building-a-Market-Research-Agent
 **The Scenario: Your Market Intelligence Mission**
+
 Imagine a business leader preparing to make a real decision, such as entering a new market, launching a product, or choosing how to position against competitors. They do not have time to manually sift through market reports, competitor pages, and scattered research.
 
 They turn to your Market Intelligence Agent for help.
