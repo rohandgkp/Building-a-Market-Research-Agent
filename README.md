@@ -19,18 +19,22 @@ This is not about writing code or generating generic summaries. It’s about des
 Your Market Intelligence Agent will be built entirely in Amazon QuickSuite and will deliver a complete market intelligence package inside a Space. The project is organized around two major functions:
 
 1) The Intelligence Builder (Initial Research + Signal Collection)
+
 Your Task: Based on a provided business scenario and research objective, you will configure and use QuickSuite to conduct market and competitor research.
 
 The Outcome: You will gather high-value market signals (competitor landscape, positioning, market trends, customer signals, or category dynamics) using:
+
 Quick Research to gather and summarize external research
 Quick Chat (Q) to explore, clarify, and refine what matters
 
 This stage emphasizes disciplined scope and prioritization. You are working within limited research time, so focus is part of the job.
 
 2) The Executive Intelligence Pack (Synthesis + Validation + Delivery)
+
 Your Task: Once research outputs are collected, you will synthesize them into a clear intelligence deliverable that leadership can act on.
 
 The Outcome: You will produce:
+
 A Market Intelligence Brief (3–5 insights, implications, and recommended next steps)
 A Reliability Evaluation (confidence levels, limitations, and risks for each insight)
 Optional supporting visuals or summaries if charts add clarity
