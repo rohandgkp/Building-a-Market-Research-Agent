@@ -25,6 +25,7 @@ Your Task: Based on a provided business scenario and research objective, you wil
 The Outcome: You will gather high-value market signals (competitor landscape, positioning, market trends, customer signals, or category dynamics) using:
 
 Quick Research to gather and summarize external research
+
 Quick Chat (Q) to explore, clarify, and refine what matters
 
 This stage emphasizes disciplined scope and prioritization. You are working within limited research time, so focus is part of the job.
@@ -36,8 +37,11 @@ Your Task: Once research outputs are collected, you will synthesize them into a 
 The Outcome: You will produce:
 
 A Market Intelligence Brief (3–5 insights, implications, and recommended next steps)
+
 A Reliability Evaluation (confidence levels, limitations, and risks for each insight)
+
 Optional supporting visuals or summaries if charts add clarity
+
 A final, organized delivery inside Spaces, so the work is easy to review and reuse
 
 This stage is where the project becomes real. Strong submissions do not just repeat research. They convert research into judgment, clarity, and action.
